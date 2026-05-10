@@ -4,8 +4,8 @@
 
 🔧 What Changed
 - Added Tailwind v4 + Vite integration with DaisyUI.
-- Created `tailwind.config.js` to register DaisyUI as a Tailwind plugin.
-- Simplified `src/index.css` to only import Tailwind: `@import "tailwindcss";`.
+- 
+- 
 
 👉🏻 Module 1 Section 2 (Router setup)
 
