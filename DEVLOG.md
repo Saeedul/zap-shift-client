@@ -10,7 +10,22 @@
 👉🏻 Module 1 Section 2 (Router setup)
 
 🔧 What Changed
-- 
+- Added navbar and footer
+- Added reusable component logo inside components folder so than it can be used all around the website.
+
+🐛 Issues / Challenges
+- Challenge 1 → 
+
+👉🏻 Module 1 Section 3 (customize theme)
+
+🔧 What Changed
+- Reused the added logo in navbar and footer.
+- RootLayout.jsx -> Created reusable JSX "links" variable. Reused the variable inside code.
+- NavBar.jsx -> Used <NavLink> of React router instead of <a> to route from pages to pages.
+- Installed React Icons.
+- Set max width for website rendering.
+- Theme customized.
+- Changed footer theme.
 
 🐛 Issues / Challenges
 - Challenge 1 → 

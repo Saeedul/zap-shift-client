@@ -1,8 +1,23 @@
+/* Importing Google Fonts. This import should be at the top of the file. */
 @import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Importing tailwindcss */
 @import "tailwindcss";
-@plugin "daisyui";
 
+/* Daisy UI theme*/
+@plugin "daisyui" {
+        themes: light --default;
+}
 
+/* Daisy UI theme customization */
+@plugin "daisyui/theme" {
+  name: "light";
+  default: true;
+  --color-primary: #CAEB66;
+  --color-secondary: #03373D;
+}
+
+/* Urbanist font: CSS class for a variable style */
 body {
         font-family: "Urbanist", sans-serif;
         font-optical-sizing: auto;
