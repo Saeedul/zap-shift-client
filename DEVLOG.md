@@ -30,3 +30,10 @@
 🐛 Issues / Challenges
 - Challenge 1 → 
 
+👉🏻 Module 1 Section 4 (Add Banner)
+🔧 What Changed
+- Added Banner.
+
+🐛 Issues / Challenges
+- Challenge 1 → 
+
