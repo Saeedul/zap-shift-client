@@ -36,4 +36,10 @@
 
 🐛 Issues / Challenges
 - Challenge 1 → 
+👉🏻 Folder Creation
+🔧 What Changed
+- As our How It Works section is not reusable, it is feasible to put it in pages>Home. So I put it there instead of Shared folder or components folder.
+
+🐛 Issues / Challenges
+- Challenge 1 → 
 
