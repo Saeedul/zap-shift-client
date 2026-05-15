@@ -4,7 +4,7 @@ import HowItWorksCard from './HowItWorksCard';
 
 const HowItWorks = () => {
     return (
-        <section className="bg-[#f5f5f5] py-20">
+        <section className="bg-[#f5f5f5] py-20 rounded-3xl">
             <div className="w-11/12 mx-auto">
                 <h2 className="text-4xl font-bold mb-12">
                     How It Works
