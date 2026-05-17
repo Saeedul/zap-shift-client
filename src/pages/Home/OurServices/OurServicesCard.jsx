@@ -2,7 +2,7 @@ import React from 'react';
 
 const OurServicesCard = ({ item }) => {
     return (
-        <div className="bg-white rounded-2xl p-8 text-center">
+        <div className="bg-white rounded-2xl p-8 text-center transition-all duration-300 hover:bg-[#CAEB66]">
             <div className="flex justify-center">
                 <img
                     src={item.icon}
