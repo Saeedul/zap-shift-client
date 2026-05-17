@@ -36,11 +36,19 @@
 
 🐛 Issues / Challenges
 - Challenge 1 → 
-👉🏻 Folder Creation
 🔧 What Changed
 - As our "How It Works" section wont have any reusable components, it is feasible to put it in pages>Home. So I put it there instead of Shared folder or components folder.
 - Added Our Services Section.
 
 🐛 Issues / Challenges
+- Challenge 1 →
+
+
+👉🏻 Module 1 Section 5 (Add Brands)
+🔧 What Changed
+- Added Brands using SwiperJS carousel.
+
+🐛 Issues / Challenges
 - Challenge 1 → 
+
 
