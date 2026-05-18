@@ -52,7 +52,7 @@
 
 👉🏻 Module 1 Section 5 (Add Reviews)
 🔧 What Changed
-- Added Review section SwiperJS.
+- Added Review section with SwiperJS.
 
 🐛 Issues / Challenges
 - Challenge 1 → 
