@@ -43,10 +43,16 @@
 🐛 Issues / Challenges
 - Challenge 1 →
 
-
 👉🏻 Module 1 Section 5 (Add Brands)
 🔧 What Changed
 - Added Brands using SwiperJS carousel.
+
+🐛 Issues / Challenges
+- Challenge 1 → 
+
+👉🏻 Module 1 Section 5 (Add Reviews)
+🔧 What Changed
+- Added Review section SwiperJS.
 
 🐛 Issues / Challenges
 - Challenge 1 → 
