@@ -6,10 +6,10 @@ const ReviewCard = ({ review }) => {
     return (
         <div className="card bg-base-100 shadow-lg rounded-2xl p-6 max-w-sm w-full">
             {/* Quote Icon */}
-            <RiDoubleQuotesL className="text-teal-400 text-4xl mb-3" />
+            <RiDoubleQuotesL className="text-primary text-2xl mb-3" />
 
             {/* Quote Text */}
-            <p className="text-base-content text-sm leading-relaxed mb-5">
+            <p className="mb-4">
                 {testimonial}
             </p>
 
